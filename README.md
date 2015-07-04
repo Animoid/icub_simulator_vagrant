@@ -7,8 +7,8 @@ After setup is complete you will have a single linux desktop virtual machine run
 
 1) Install dependencies
 
-* [VirtualBox][https://www.virtualbox.org]
-* [Vagrant][https://www.vagrantup.com]
+* [VirtualBox](https://www.virtualbox.org)
+* [Vagrant](https://www.vagrantup.com)
 * [Animoid Base Box](https://github.com/Animoid/base_box)
 
 2) Clone this project
