@@ -1,7 +1,7 @@
 # iCub Simulator Vagrant
 
 This repo provides a Vagrantfile to create a virtual machine using the VirtualBox software hypervisor.
-After setup is complete you will have a single CoreOS virtual machine running on your local machine.
+After setup is complete you will have a single linux desktop virtual machine running on your local machine.
 
 ## Before you Begin
 
