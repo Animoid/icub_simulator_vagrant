@@ -1,4 +1,6 @@
 #!/bin/bash -eux
 
-# Minimal Gnome based desktop GUI
-apt-get -y install xorg gnome-core gnome-system-tools gnome-app-install git-core openssh-server build-essential curl vim tmux
+# Minimal desktop GUI
+apt-get -y install xorg git-core openssh-server build-essential curl vim tmux
+
+sudo apt-get install -y --no-install-recommends lubuntu-desktop

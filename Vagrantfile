@@ -12,6 +12,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.provision "shell", path: "scripts/update.sh"
   config.vm.provision "shell", path: "scripts/packages.sh"
   config.vm.provision "shell", path: "scripts/icub_related.sh"
+  config.vm.provision "shell", path: "scripts/autologin.sh"
 
   config.vm.provider "virtualbox" do |vb|
     vb.name = "iCub Simulator"
