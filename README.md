@@ -33,12 +33,6 @@ This provisioning process can take 20 mins or more the first time so please be p
 
 Once all of the console activity has stopped you are now ready to login to the virutal machine and begin.
 
-## Login to the virtual machine
-
-The virtual box window should now be open on your screen if you ran ```vagrant up```.  
-
-Login with the username and password "vagrant".
-
 ## Playing with the iCub Simulator
 
 Please follow along with the [Check your installation](http://wiki.icub.org/wiki/Check_your_installation) instructions from the iCub wiki.
